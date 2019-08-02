@@ -8,12 +8,27 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+
+*![display_wireframe](/wireframe-pic_display_view.jpg)
+
+*![home_wireframe](/wireframe-pic_home_view.jpg)
+
+*![restaurant_details_wireframe](/wireframe-pic_restaurant_details.jpg)
+
+*![search_wireframe](/wireframe-pic_search_view.jpg)
+
+*![signup_wireframe](/wireframe-pic_signup_view.jpg)
+
+*![user_account_view](wireframe-pic_user_account_view.jpg)
+
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+
+[Trello Board](https://trello.com/b/hzGCiNRn/lift-off-project)
+
+
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[GitHub Repo](https://github.com/dbob23/liftoff-assignments.git)
