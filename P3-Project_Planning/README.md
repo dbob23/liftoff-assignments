@@ -19,7 +19,7 @@ For this assignment, you'll create some initial plans for your project.
 
 *[signup](/wireframe-pic_signup_view.jpg)
 
-*[user_account](wireframe-pic_user_account_view.jpg)
+*[user_account](/wireframe-pic_user_account_view.jpg)
 
 
 ### Project Tracker
