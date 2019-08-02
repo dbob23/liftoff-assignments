@@ -9,17 +9,17 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 
-*![display_wireframe](/wireframe-pic_display_view.jpg)
+*[display](/wireframe-pic_display_view.jpg)
 
-*![home_wireframe](/wireframe-pic_home_view.jpg)
+*[home](/wireframe-pic_home_view.jpg)
 
-*![restaurant_details_wireframe](/wireframe-pic_restaurant_details.jpg)
+*[details](/wireframe-pic_restaurant_details.jpg)
 
-*![search_wireframe](/wireframe-pic_search_view.jpg)
+*[search](/wireframe-pic_search_view.jpg)
 
-*![signup_wireframe](/wireframe-pic_signup_view.jpg)
+*[signup](/wireframe-pic_signup_view.jpg)
 
-*![user_account_view](wireframe-pic_user_account_view.jpg)
+*[user_account](wireframe-pic_user_account_view.jpg)
 
 
 ### Project Tracker
