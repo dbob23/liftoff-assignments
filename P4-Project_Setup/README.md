@@ -8,4 +8,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 
 ### Project Repository
 
-[Github Project Repository] (https://github.com/dbob23/NumNums)
+[Github Project Repository](https://github.com/dbob23/NumNums)
