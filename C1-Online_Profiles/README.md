@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LinkedIn Account](https://www.linkedin.com/in/dennis-segall-db23)
 
 ### Resume
-[Resume](../blob/master/DennisSegallResume.pdf)
+[Resume](https://github.com/dbob23/liftoff-assignments/blob/master/DennisSegallResume%20.pdf)
