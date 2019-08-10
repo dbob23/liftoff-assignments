@@ -28,7 +28,7 @@ For this assignment, you will submit a high-level outline of your project. This 
     User login: Users will be able to create accounts and log in to the apps in order to add and edit their
     name, location, and website link to the database.
 
-    Display results: Results that match the user's search criteria will be dispalyed as a list of website URLs
+    Display results: Results that match the user's search criteria will be displayed as a list of website URLs
     and as locations on a map.
 
 
@@ -38,14 +38,16 @@ For this assignment, you will submit a high-level outline of your project. This 
     *Spring
     *Thymeleaf
     *MySql
-    *SQLAlchemy
     *Bootstrap
+    *PHP
+    *Javascript
+    *GoogleMaps API
 
 
 ### What I'll Have to Learn
 
-    *How to make my app interact with and display Google Maps.
-
+    *How to make my app interact with and display Google Maps (Google Maps API)
+    (Edit: PHP, JavaScript)
 
 ### Link to Trello board:
 

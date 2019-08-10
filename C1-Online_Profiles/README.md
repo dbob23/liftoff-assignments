@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LinkedIn Account](https://www.linkedin.com/in/dennis-segall-db23)
 
 ### Resume
-[Resume](/Dennis Segall Resume.pdf)
+[Resume](../Dennis Segall Resume.pdf)
