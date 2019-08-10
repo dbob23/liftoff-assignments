@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-[NumNums on GitHub](https://github.com/dbob23/NumNums)
+[GitHub Profile](https://github.com/dbob23)
  
 ### LinkedIn
 [LinkedIn Account](https://www.linkedin.com/in/dennis-segall-db23)
