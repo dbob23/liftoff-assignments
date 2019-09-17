@@ -7,4 +7,5 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-*[presentation pdf](/NumNums_Presentation.pdf)
+*[presentation-pdf](/NumNums_Presentation.pdf)
+*[user_account](/wireframe-pic_user_account_view.jpg)
